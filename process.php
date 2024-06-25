@@ -64,7 +64,7 @@ if (!empty($name)) {
         <p class="text-lg text-center text-gray-800">Nama: <strong><?php echo htmlspecialchars($name); ?></strong></p>
         <p class="text-lg text-center text-gray-800">Khodam: <strong><?php echo htmlspecialchars($randomKhodam); ?></strong></p>
         <div class="flex justify-center mt-6">
-            <a href="index.php" class="bg-amber-500 text-white py-3 px-6 rounded-lg shadow-md hover:bg-amber-600 transition duration-300">Kembali</a>
+            <a href="index.html" class="bg-amber-500 text-white py-3 px-6 rounded-lg shadow-md hover:bg-amber-600 transition duration-300">Kembali</a>
         </div>
     </div>
 </body>
