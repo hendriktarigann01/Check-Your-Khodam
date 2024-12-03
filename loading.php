@@ -49,7 +49,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         @media (max-width: 768px) {
             body {
-                background: url('img/bg-mobile.png') no-repeat center center fixed;
+                background: url('img/bg-phone.png') no-repeat center center fixed;
                 background-size: cover;
             }
         }

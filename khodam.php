@@ -80,7 +80,7 @@ return [
     'Lumba-Lumba Demak',
     'Bohlam Lampu',
     'Buaya Nigeria',
-    'Naga Bearbend',
+    'Naga Bearbrand',
     'Pohon Palem',
     'Penyu Isriwil',
     'Perkakas Kopling',
